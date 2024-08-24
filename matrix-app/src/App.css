@@ -36,18 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.navbar-container{
-  display: flex;
-  justify-content: flex-end;
-  padding: 10px;
-}
-
-.nav-button{
-  color: black;
-  text-decoration: none;
-  background-color: aquamarine;
-  border-radius: 6px;
-  border-width: 0px;
-  margin-right:6px;
-}
